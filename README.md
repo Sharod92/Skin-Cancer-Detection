@@ -42,6 +42,9 @@ Activation Function(Softmax) - The softmax function is used as the activation fu
  
 ### Conclusion
 We have solved the overfiting problem
+
 We can see that the training and validation accuracy are similar and decently high
+
 We can futher tweak the model by reducing the number of neurons in the dense layers or changing the locaiton of the dropout layers to improve performance
+
 Re-balancing the classes by using augmented data helps in improving model performance and accuracy
